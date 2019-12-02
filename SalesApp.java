@@ -1,5 +1,12 @@
 package SalesApp;
 
+/**This program keeps track of sales;
+ * online and in store sales for a small business.
+ * 
+ * @author Perihan Hill
+ * @since 11/30/2019
+ * @version 1.8
+ */
 import java.util.LinkedList;
 import java.util.List;
 
